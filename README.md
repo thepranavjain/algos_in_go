@@ -16,3 +16,7 @@ go test ./sorting
 
 ## Sorting
 'sorting' contains the methods for insertion and merge sorting an array of integers.
+
+## Heaps
+'heap' contains the struct Heap and PriorityQueue. Heap is implemented using min-heap.
+PriorityQueue repackages Heap struct to work as a max-heap.
